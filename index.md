@@ -124,7 +124,7 @@
 <div id="footer"><div align="center" style="margin-bottom: 20px; letter-spacing: 1px; font-size: 15px;"><br> <hr style="height: 1px; background-color: rgb(238, 238, 238); border: none;"> <p style="color: grey; margin: 15px 10px; text-align: left; font-size: 11px;">
             风险提示：页面中的数据及内容来自于互联网、基于大数据技术自动生成，并不构成任何投资决策依据，本站不承担由此导致的任何责任。
         </p> <img src="/static/image/qrcode.jpg" width="35%"> <div style="text-align: center; font-size: 12px; margin-bottom: 12px;">[↑微信公众号↑]</div> <div class="mobilePreference"><a href="/normal/api/set_mobile/0" class="">电脑版</a> <a href="/normal/api/set_mobile/1" class="">移动版</a></div> <small style="color: black;"> © 2020-2022
-            <a href="/index" style="text-decoration: none; color: black;">嗨皮小土豆</a></small></div></div>
+            <a href="/index" style="text-decoration: none; color: black;">梦祥</a></small></div></div>
 
 
 <!-- import Vue before Element -->
